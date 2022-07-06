@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'FZKTK';
+    src: url('./FZKTK.woff2');
+    src: url('./FZKTK.woff2') format('woff2'),
+        url('./FZKTK.woff') format('woff'),
+        url('./FZKTK.TTF') format('truetype'),
+}
